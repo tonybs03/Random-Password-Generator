@@ -47,6 +47,8 @@ function generatePassword() {
   for (var i = 0, n = charset.length; i < length; ++i) {
     returnedpassword += charset.charAt(Math.floor(Math.random() * n));
   }
+
+
   return returnedpassword;
 }
 
