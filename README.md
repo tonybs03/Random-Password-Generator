@@ -1,4 +1,4 @@
-# HTML-Portfolio
+# Random Password Generator
 
 This is the first trial for me to build a web-based random password generator.
 
